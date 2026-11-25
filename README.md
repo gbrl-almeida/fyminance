@@ -32,11 +32,11 @@ Tem que aparecer `v22` ou um número maior.
 
 ## 1. Instalar
 
-1. Baixe a pasta do projeto e descompacte num lugar fácil de achar, como `Documentos/fyminance`.
+1. Baixe o projeto [neste link](https://github.com/gbrl-almeida/fyminance/archive/refs/heads/main.zip) e descompacte num lugar fácil de achar, como Documentos. A pasta vem com o nome `fyminance-main`. Quem usa git pode clonar o repositório.
 2. No terminal, entre na pasta: digite `cd` e um espaço, arraste a pasta para dentro da janela do terminal e aperte Enter. Fica parecido com isto:
 
    ```bash
-   cd C:\Users\voce\Documents\fyminance
+   cd C:\Users\voce\Documents\fyminance-main
    ```
 
 3. Instale o pnpm, o programa que baixa as peças do app. Só precisa fazer uma vez por computador:
