@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fyminance__month_summary",
+      "mcp__fyminance__spending",
+      "mcp__fyminance__transactions",
+      "mcp__fyminance__upcoming_installments",
+      "mcp__fyminance__balances",
+      "mcp__fyminance__pending_items",
+      "mcp__fyminance__sql",
+      "mcp__fyminance__categories",
+      "mcp__fyminance__rules",
+      "mcp__fyminance__list_documents",
+      "mcp__fyminance__read_document",
+      "mcp__fyminance__investments",
+      "mcp__fyminance__goals",
+      "mcp__fyminance__closing_status",
+      "Bash(pnpm fy status)",
+      "Bash(pnpm test)",
+      "Bash(pnpm typecheck)"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+coverage/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+!.env.example
+demo/
+.next/
+next-env.d.ts
+test-results/
+playwright-report/
+tsconfig.tsbuildinfo

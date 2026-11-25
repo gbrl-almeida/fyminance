@@ -1,0 +1,9 @@
+Data de Compra;Nome no Cartão;Final do Cartão;Categoria;Descrição;Parcela;Valor (em US$);Cotação (em R$);Valor (em R$)
+29/11/2025;FULANO DE TAL;1111;Departamento / Desconto;LOJA DE MOVEIS;11/11;0;0;300.00
+04/05/2026;FULANO DE TAL;1111;Transporte;"LOJA; COM PONTO E VIRGULA";6/10;0;0;150.00
+14/09/2026;FULANO DE TAL;1111;-;"Inclusao de Pagamento    ";Única;0;0;-1000.00
+20/09/2026;FULANO DE TAL;2222;Restaurante / Lanchonete / Bar;PADARIA DO BAIRRO;Única;0;0;25.50
+21/09/2026;FULANO DE TAL;2222;Restaurante / Lanchonete / Bar;"MERCADO  CENTRAL ";1/3;0;0;90.00
+07/10/2026;FULANO DE TAL;1111;-;Anuidade Diferenciada;Única;0;0;98.00
+07/10/2026;FULANO DE TAL;1111;-;Estorno Tarifa;Única;0;0;-98.00
+11/10/2026;FULANO DE TAL;2222;Elétrico;SERVICO ONLINE;Única;20;5.4;108.00

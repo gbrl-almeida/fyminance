@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792022948155,
+      "tag": "0000_long_blindfold",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792022948617,
+      "tag": "0001_views",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792290779374,
+      "tag": "0002_glossy_xorn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1792290785716,
+      "tag": "0003_views_1b",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1792291428193,
+      "tag": "0004_closing_totals",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1792706150433,
+      "tag": "0005_investment_movements",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1792707511250,
+      "tag": "0006_lancamento",
+      "breakpoints": true
+    }
+  ]
+}
